@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952231815135",
+    "project_id": "native-workshop",
+    "storage_bucket": "native-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952231815135:android:ff0b6c32f7f488a364c66a",
+        "android_client_info": {
+          "package_name": "com.sessionfifthdays"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-ffiE7-acRuTRV6Cb0mLGNGTdrWZEPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
